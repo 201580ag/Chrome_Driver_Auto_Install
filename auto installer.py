@@ -1,6 +1,5 @@
 from selenium import webdriver
 import chromedriver_autoinstaller
-import getpass
 import os
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.select import Select
